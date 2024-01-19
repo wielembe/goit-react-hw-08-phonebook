@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[936],{4936:function(e,t,c){c.r(t),c.d(t,{default:function(){return l}});var n=c(4270),r="Home_homeWelcome__d7s1X",o=c(184),l=function(){return(0,o.jsxs)("main",{children:[(0,o.jsx)(n.q,{children:(0,o.jsx)("title",{children:"Home"})}),(0,o.jsx)("div",{className:r,children:(0,o.jsx)("h2",{children:"Welcome to your contacts application!"})})]})}}}]);
+//# sourceMappingURL=936.69aa5f66.chunk.js.map
